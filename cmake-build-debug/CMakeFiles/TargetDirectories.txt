@@ -1,0 +1,3 @@
+/home/abdalla/CLionProjects/money_exchange/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/abdalla/CLionProjects/money_exchange/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/abdalla/CLionProjects/money_exchange/cmake-build-debug/CMakeFiles/money_exchange.dir

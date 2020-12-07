@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abdalla/CLionProjects/money_exchange/main.cpp
+iostream
+-
+stdlib.h
+/home/abdalla/CLionProjects/money_exchange/stdlib.h
+
